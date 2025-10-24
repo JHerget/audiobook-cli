@@ -7,7 +7,7 @@ Although it could be faster to use the web interface for exploring new books and
 * Make the navigation clearer.
 * Allow users to download all books for an author at the same time.
 * Add an option to see the list of recently added books.
-* Automatically download books from a "to read".
+* Automatically download books from a "to read" list.
     * Pull the list from a file or Goodreads.
     * Periodically check the catalog for books that were previously not found.
     * Add text or email notifications for when new books from your list are found.
